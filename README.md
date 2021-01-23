@@ -4,6 +4,10 @@ This is EXPERIMENTAL app widget for Android.
 
 We are not associated to earth2 project, this is just an independant utility.
 
+This app doesn't ask and will never ask your Earth2 password! In order to work it's just needed the user unique identifier of the profile id (example: 0987ff84-898d-4950-b2aa-322c8b90365b). You can find it on your address bar after clicking profile: https://app.earth2.io/#profile/<YOURUID>.
+
+We suggest you to never give your Earth2 password to anyone.
+
 For every question and support please write to: nessunolabs@gmail.com
 
 Thanks
