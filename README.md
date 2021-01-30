@@ -1,5 +1,7 @@
 # mye2-dist
 
+<a href="https://github.com/nessunolabs/mye2-dist/raw/main/myearth2-widget-v1.apk">DOWNLOAD FREE</a>
+
 This is EXPERIMENTAL app widget for Android.
 
 We are not associated to earth2 project, this is just an independant utility.
